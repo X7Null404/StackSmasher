@@ -376,7 +376,7 @@ def jmp_esp_fun():
 
         jmp = input("\n[+] Enter JMP ESP use command !mona jmp -r esp in immunity debugger! : ")
     except (KeyboardInterrupt, EOFError):
-        print("\n[+] Bye >__<\")
+        print("\n[+] Bye >__<")
         sys.exit(0)
 
 #-----validation JMP ESP
