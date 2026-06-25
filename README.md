@@ -41,7 +41,7 @@ An interactive **HTTP-based Buffer Overflow exploit framework** designed for pen
 ### Python Dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install -r tool/requirements.txt
 ```
 
 Key libraries:

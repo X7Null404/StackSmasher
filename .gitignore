@@ -1,0 +1,7 @@
+__pycache__/ 
+.venv/ 
+bad_char_input_example.py 
+code_notes.py 
+main.py 
+requirements.txt 
+stacksmasher.py 
